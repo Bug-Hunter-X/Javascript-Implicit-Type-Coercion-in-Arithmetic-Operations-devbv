@@ -1,0 +1,2 @@
+# Javascript Implicit Type Coercion Bug
+This repository demonstrates a common error in Javascript stemming from its loose typing and implicit type coercion during arithmetic operations.  The `bug.js` file showcases how adding a number and a string results in string concatenation, while subtraction, multiplication, and division may yield surprising results depending on the context. The `bugSolution.js` provides solutions to mitigate these issues.
